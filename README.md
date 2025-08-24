@@ -44,7 +44,7 @@ Open Chocolate-Sales-PowerBI-Dashboard.pbix in Power BI Desktop.
 Explore the dashboard and use interactive filters to gain insights.
 
 📸 Dashboard Preview
-Dashboard.jpg 
+[Dashboard.jpg ](https://github.com/mvk2818/Chocolate-Sales-PowerBI-Dashboard/blob/main/Dashboard.jpg)
 
 👨‍💻 Author
 
